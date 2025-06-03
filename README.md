@@ -2,6 +2,8 @@
 
 <img src="img/ChatGPT Image Jun 3, 2025, 01_43_57 PM.png">
 
+> This image is `AI-generated` (using my face image) and intended for illustrative purposes to visually represent the project.
+
 ---
 
 ## 📄 **Project Proposal: Seamless File Transfer System Between Mobile and Computer**
